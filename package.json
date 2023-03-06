@@ -1,0 +1,12 @@
+{
+  "name": "quiz-js-oop-dom",
+  "version": "1.0.0",
+  "description": "An example of DOM access from A Simple Vanilla JS OOP Quiz App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Marín Méndez",
+  "license": "ISC"
+}
